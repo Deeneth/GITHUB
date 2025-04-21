@@ -1,2 +1,2 @@
-sharves loves kishoreecho sharves loves kishore git remote -v >>file1.txt
-mouli loves sam
+\nHELLO BOIS
+MOULI LOVES KISHORE AND SHARVES LOVES VEERA
